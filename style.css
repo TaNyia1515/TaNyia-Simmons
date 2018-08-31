@@ -1,0 +1,35 @@
+html
+head
+style
+
+.container {
+  background-color:skyblue;
+}
+h1 {
+  color:pink;
+}
+body {
+  background-color: skyblue;
+}
+.navbar li {
+  display: inline;
+background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F230000%2Fvelka%2Fwatercolor-rainbow-wash-1501083933Xu4.jpg&imgrefurl=https%3A%2F%2Fwww.publicdomainpictures.net%2Fen%2Fview-image.php%3Fimage%3D223311%26picture%3Dwatercolor-rainbow-wash&docid=5cZbvjsVFNGQvM&tbnid=U3Yt4gvaVuUiqM%3A&vet=10ahUKEwi6-Ma4qJfdAhUPNd8KHU-fAYwQMwiMAigMMAw..i&w=1919&h=1357&safe=active&bih=918&biw=1280&q=rainbow&ved=0ahUKEwi6-Ma4qJfdAhUPNd8KHU-fAYwQMwiMAigMMAw&iact=mrc&uact=8");
+}
+
+
+
+.login {
+  float:right;
+  }
+
+.login a {
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position:relative;
+}
+
+.login a:active {
+  top:5px;
+}
